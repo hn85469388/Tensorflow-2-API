@@ -1,0 +1,407 @@
+﻿  Inference.cpp
+d:\tensorflow_c++\include\eigen\src\core\arch\default\half.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\tensorflow_c++\include\eigen\src\core\arch\default\bfloat16.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\tensorflow_c++\include\eigen\src\core\products\generalblockpanelkernel.h(2081): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\graph_debug_info.pb.h(472): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\attr_value.pb.h(687): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\node_def.pb.h(97): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\function.pb.h(300): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\function.pb.h(332): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\function.pb.h(587): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\function.pb.h(590): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\function.pb.h(621): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\function.pb.h(624): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\struct.pb.h(875): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\saved_object_graph.pb.h(173): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\saved_object_graph.pb.h(381): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\meta_graph.pb.h(164): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\meta_graph.pb.h(167): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\meta_graph.pb.h(479): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\meta_graph.pb.h(511): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\meta_graph.pb.h(2470): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\meta_graph.pb.h(2502): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\unsupported\eigen\cxx11\src\tensor\tensor.h(76): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+  d:\tensorflow_c++\include\unsupported\eigen\cxx11\src\tensor\tensormap.h(33): note: 查看要編譯的 類別 樣板 具現化 'Eigen::Tensor<T,1,1,int>' 參考
+          with
+          [
+              T=float
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor_types.h(105): note: 查看要編譯的 類別 樣板 具現化 'Eigen::TensorMap<Eigen::Tensor<T,1,1,int>,16,Eigen::MakePointer>' 參考
+          with
+          [
+              T=float
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\step_stats.pb.h(1180): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\cluster.pb.h(97): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\rewriter_config.pb.h(543): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\config.pb.h(1949): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\config.pb.h(3784): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\config.pb.h(3787): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\config.pb.h(3818): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\protobuf\config.pb.h(3821): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\util\tensor_format.h(502): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\util\tensor_format.h(524): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\util\tensor_format.h(558): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\node_def_util.h(147): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\op_kernel.h(158): warning C4244: 'return': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\op_kernel.h(165): warning C4244: 'return': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\op_kernel.h(306): warning C4244: 'return': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\op_kernel.h(314): warning C4244: 'return': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\op_kernel.h(722): warning C4244: 'return': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\op_kernel.h(727): warning C4244: 'return': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\tensorflow_c++\include\tensorflow\core\lib\core\arena.h(46): warning C4267: '引數': 將 'size_t' 轉換為 'const int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\graph\graph.h(567): warning C4244: 'return': 將 'const tensorflow::int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\tensorflow_c++\include\tensorflow\core\graph\graph.h(572): warning C4244: 'return': 將 'tensorflow::int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\tensorflow_c++\include\tensorflow\core\graph\graph.h(608): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\graph\graph.h(617): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor_slice.h(63): warning C4244: 'return': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\opencv\build\include\opencv2\calib3d.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\tensorflow_c++\tf_inference_dll\tf_inference_dll\inference.cpp(69): warning C4244: '=': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\tensorflow_c++\tf_inference_dll\tf_inference_dll\inference.cpp(85): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\tensorflow_c++\tf_inference_dll\tf_inference_dll\inference.cpp(86): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\tensorflow_c++\tf_inference_dll\tf_inference_dll\inference.cpp(87): warning C4244: '正在初始化': 將 'double' 轉換為 'size_t'，由於類型不同，可能導致資料遺失
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=float
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=float
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(186): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<float>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=float
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=double
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=double
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(188): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<double>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=double
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::int32
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::int32
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(190): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::int32>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::int32
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::uint32
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::uint32
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(192): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::uint32>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::uint32
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::uint16
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::uint16
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(194): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::uint16>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::uint16
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::uint8
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::uint8
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(196): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::uint8>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::uint8
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::int16
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::int16
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(198): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::int16>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::int16
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::int8
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::int8
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(200): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::int8>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::int8
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::tstring
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::tstring
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(202): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::tstring>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::tstring
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::complex64
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::complex64
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(204): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::complex64>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::complex64
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::complex128
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::complex128
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(206): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::complex128>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::complex128
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::int64
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::int64
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(208): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::int64>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::int64
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::uint64
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::uint64
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(210): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::uint64>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::uint64
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=bool
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=bool
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(212): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<bool>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=bool
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::qint8
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::qint8
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(214): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::qint8>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::qint8
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::quint8
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::quint8
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(216): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::quint8>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::quint8
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::qint16
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::qint16
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(218): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::qint16>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::qint16
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::quint16
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::quint16
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(220): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::quint16>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::quint16
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::qint32
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::qint32
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(222): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::qint32>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::qint32
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::bfloat16
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::bfloat16
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(224): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::bfloat16>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::bfloat16
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=Eigen::half
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=Eigen::half
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(226): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<Eigen::half>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=Eigen::half
+          ]
+d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(978): warning C4624: 'tensorflow::Tensor::ValueAndTensorBuffer<T>': 解構函式已隱含已刪除的意思
+          with
+          [
+              T=tensorflow::ResourceHandle
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(1005): note: 查看要編譯的 類別 樣板 具現化 'tensorflow::Tensor::ValueAndTensorBuffer<T>' 參考
+          with
+          [
+              T=tensorflow::ResourceHandle
+          ]
+  d:\tensorflow_c++\include\tensorflow\core\framework\tensor.h(228): note: 請參閱所要編譯的函式 樣板 具現化 'tensorflow::Tensor::Tensor<tensorflow::ResourceHandle>(T,tensorflow::Tensor::host_scalar_tag)' 之參考
+          with
+          [
+              T=tensorflow::ResourceHandle
+          ]
+d:\tensorflow_c++\include\tensorflow\core\util\tensor_format.h(439): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  d:\tensorflow_c++\include\tensorflow\core\util\tensor_format.h(471): note: 請參閱所要編譯的函式 樣板 具現化 'T tensorflow::GetTensorDim<tensorflow::int64>(absl::lts_2020_02_25::Span<const tensorflow::int64>,tensorflow::TensorFormat,char)' 之參考
+          with
+          [
+              T=tensorflow::int64
+          ]
+d:\tensorflow_c++\include\tensorflow\core\util\tensor_format.h(449): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  d:\tensorflow_c++\include\tensorflow\core\util\tensor_format.h(480): note: 請參閱所要編譯的函式 樣板 具現化 'T tensorflow::GetFilterDim<tensorflow::int64>(absl::lts_2020_02_25::Span<const tensorflow::int64>,tensorflow::FilterTensorFormat,char)' 之參考
+          with
+          [
+              T=tensorflow::int64
+          ]
+     正在建立程式庫 D:\Tensorflow_C++\TF_Inference_DLL\x64\Release\TF_Inference_DLL.lib 和物件 D:\Tensorflow_C++\TF_Inference_DLL\x64\Release\TF_Inference_DLL.exp
+  LINK : 指定了 /LTCG，但未要求程式碼產生，請從連結命令列移除 /LTCG 以提升連結器效能
+  TF_Inference_DLL.vcxproj -> D:\Tensorflow_C++\TF_Inference_DLL\x64\Release\TF_Inference_DLL.dll
